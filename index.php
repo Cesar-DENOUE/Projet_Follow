@@ -24,8 +24,38 @@
 		<ul class="nav">
 			<li>
 				<a href="#">
+				<span class="material-symbols-outlined">space_dashboard</span>
+				<span>Dashboard</span>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+				<span class="material-symbols-outlined">real_estate_agent</span>
+				<span>Clients</span>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+				<span class="material-symbols-outlined">task</span>
+				<span>Tâches</span>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+				<span class="material-symbols-outlined">sms</span>
+				<span>Conversation</span>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+				<span class="material-symbols-outlined">add_task</span>
+				<span>Assigner à</span>
+				</a>
+			</li>
+			<li>
+				<a href="#">
 				<span class="material-symbols-outlined">add</span>
-					<span>Dashboard</span>
+				<span>Nouveau client</span>
 				</a>
 			</li>
 
