@@ -42,7 +42,7 @@
 			</li>
 			<li>
 				<a href="#">
-				<span class="material-symbols-outlined">sms</span>
+				<span class="material-symbols-outlined">forum</span>
 				<span>Conversation</span>
 				</a>
 			</li>
