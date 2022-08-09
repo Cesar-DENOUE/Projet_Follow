@@ -42,14 +42,8 @@
 			</li>
 			<li>
 				<a href="#">
-				<span class="material-symbols-outlined">forum</span>
+				<span class="material-symbols-outlined">groups</span>
 				<span>Conversation</span>
-				</a>
-			</li>
-			<li>
-				<a href="#">
-				<span class="material-symbols-outlined">add_task</span>
-				<span>Assigner à</span>
 				</a>
 			</li>
 			<li>
@@ -58,7 +52,12 @@
 				<span>Nouveau client</span>
 				</a>
 			</li>
-
+			<li>
+				<a href="#">
+				<span class="material-symbols-outlined">add_task</span>
+				<span>Assigner à</span>
+				</a>
+			</li>
 		</ul>
 	</div>
 
