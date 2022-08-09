@@ -6,8 +6,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	
 	<title></title>
-	
+	<link rel="stylesheet" href="css/index.css" />
 	<link rel="stylesheet" href="assets/styles/main.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 
 </head>
 <body>
@@ -23,6 +24,7 @@
 		<ul class="nav">
 			<li>
 				<a href="#">
+				<span class="material-symbols-outlined">add</span>
 					<span>Dashboard</span>
 				</a>
 			</li>
