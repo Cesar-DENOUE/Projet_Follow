@@ -17,10 +17,15 @@
 	#668cf0 (bleu ombre)
 	#63b168 (vert)
 	#d7eedb (vert clair) -->
-	
+
 	<div class="sidebar">
 		<h2>Next</h2>
-		<ul>
+		<ul class="nav">
+			<li>
+				<a href="#">
+					<span>Dashboard</span>
+				</a>
+			</li>
 
 		</ul>
 	</div>
