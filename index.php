@@ -11,16 +11,17 @@
 
 </head>
 <body>
-	< ! couleurs : #efefef (blanc cassé)
+	 <!-- ! couleurs : #efefef (blanc cassé)
 	#aeafb0	(texte)
 	#265be6 (bleu)
 	#668cf0 (bleu ombre)
 	#63b168 (vert)
-	#d7eedb (vert clair) >
+	#d7eedb (vert clair) -->
+	
 	<div class="sidebar">
 		<h2>Next</h2>
 		<ul>
-			
+
 		</ul>
 	</div>
 
