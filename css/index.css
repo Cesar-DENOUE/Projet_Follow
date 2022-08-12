@@ -1,6 +1,13 @@
+/* couleurs : #efefef (blanc cassé)
+#aeafb0	(texte)
+#265be6 (bleu)
+#668cf0 (bleu ombre)
+#63b168 (vert)
+#d7eedb (vert clair) */
+
 body {
     background-color: white;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 li {
