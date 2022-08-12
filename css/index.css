@@ -5,11 +5,31 @@
 #63b168 (vert)
 #d7eedb (vert clair) */
 
-body {
+* {
     background-color: white;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
 
-li {
-    text-decoration: none;
+.sidebar {
+    position: fixed;
+    background: #efefef ;
+    width: 200px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.sidebar h2 {
+        text-align: center;
+        font-size: 20px;
+        text-transform: uppercase;
+        color: black;
 }
